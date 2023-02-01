@@ -1,5 +1,6 @@
-# PythonWebprogramming
+# Python3 Webprogramming
 Prof. 김선욱
 
+2022년 2학기 웹프로그래밍의 기초 수업
 * 파이썬의 기본 내용 학습
 * 파이썬과 플라스크를 이용한 프로젝트 진행
